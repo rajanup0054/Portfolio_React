@@ -281,7 +281,7 @@ function Home() {
 
       <footer className="bg-slate-900 py-6 mt-8 border-t border-slate-700">
         <div className="container mx-auto px-4 text-center text-slate-400">
-          <p>© 2024 Anup Kumar Nayak. All rights reserved.</p>
+          <p>© 2025 Anup Kumar Nayak. All rights reserved.</p>
         </div>
       </footer>
     </div>
