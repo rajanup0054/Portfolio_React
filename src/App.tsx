@@ -221,6 +221,21 @@ function Home() {
               </ul>
             </div>
 
+            <div className="p-5 rounded-lg bg-slate-700 hover:bg-slate-600 transition-colors">
+              <div className="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
+                <h3 className="text-xl font-semibold text-slate-100">Smart Retail Optimization</h3>
+                <a href="https://github.com/rajanup0054/SmartRetailOptimization" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center text-blue-500 hover:text-blue-400 transition-colors mt-2 md:mt-0">
+                  <FaGithub className="w-4 h-4 mr-1" />
+                  GitHub
+                </a>
+              </div>
+              <ul className="list-disc list-inside text-slate-300 space-y-2">
+                <li>AI + blockchain system for retail inventory and transparency.</li>
+                <li>Real-time stock tracking and restocking alerts; improved efficiency by 45%</li>
+              </ul>
+            </div>
+
           </div>
         </section>
 
@@ -233,6 +248,11 @@ function Home() {
               <span className="font-semibold">Winner:</span>
               <span className="ml-2">Idea to Prototype Hackathon</span>
             </li>
+            <li className="flex items-center text-slate-300">
+              <span className="text-yellow-500 mr-2">🏆</span>
+              <span className="font-semibold">Winner:</span>
+              <span className="ml-2">Hackforge X AI Hackathon</span>
+            </li>            
             <li className="flex items-center text-slate-300">
               <span className="text-gray-400 mr-2">🥈</span>
               <span className="font-semibold">Runner-Up:</span>
